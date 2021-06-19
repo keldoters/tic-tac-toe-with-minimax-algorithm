@@ -1,1 +1,6 @@
+# Default ignored files
+/**
+!/src/
+/src/**
+!/src/tictactoe/
 
